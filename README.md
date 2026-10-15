@@ -1,4 +1,4 @@
-<h1 align="center">Daros</h1>
+<h1 align="center">Gustavo Clerici Daros</h1>
 
 <p align="center">
   Estudante de Engenharia da Computação na UFSM
