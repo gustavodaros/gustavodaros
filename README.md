@@ -3,7 +3,10 @@
   Estudante de Engenharia da Computação na UFSM
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/UFSM-555555?style=for-the-badge&logo=academia&logoColor=white">
+  <img src="https://img.shields.io/badge/COMPUTER%20ENGINEERING-003E70?style=for-the-badge">
+</p>
 
 ## Tecnologias
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
